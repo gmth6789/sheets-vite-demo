@@ -60,7 +60,7 @@ univer.createUnit(UniverInstanceType.UNIVER_SHEET, {
   "sheets": {
       "RSfWjJFv4opmE1JaiRj80": {
           "id": "RSfWjJFv4opmE1JaiRj80",
-          "name": "测试",
+          "name": "ทดสอบ",
           "tabColor": "",
           "hidden": 0,
           "rowCount": 30,
